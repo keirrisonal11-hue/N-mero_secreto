@@ -1,4 +1,4 @@
-let  numeroMaximo = 10, contador = 0;
+let  numeroMaximo = 100, contador = 0;
 let listaNumerosSorteados = [];
 let numeroAleatorio = numeroRandom(numeroMaximo);
 
